@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <style>
+    .logo-square { fill: #ffd700; }
+    .logo-number { fill: white; font-family: 'Dosis', sans-serif; font-size: 24px; font-weight: bold; }
+  </style>
+  <rect class="logo-square" x="0" y="0" width="40" height="40" />
+  <text class="logo-number" x="20" y="28" text-anchor="middle">07</text>
+</svg>
